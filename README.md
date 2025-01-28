@@ -1,0 +1,2 @@
+# debugging
+Common debugging tips
